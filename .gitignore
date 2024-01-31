@@ -1,0 +1,4 @@
+#Ignore Test Files
+/src/*
+!/src/Homework.java
+/out
